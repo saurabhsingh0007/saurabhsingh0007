@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saurabhsingh0007
-- 👀 I’m interested in web devolopement
+- 👀 I’m interested in web developement
 - 🌱 I’m currently learning BCA
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
